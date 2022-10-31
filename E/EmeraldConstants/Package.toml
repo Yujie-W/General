@@ -1,3 +1,4 @@
 name = "EmeraldConstants"
 uuid = "f1e47f7f-56cf-4a63-9b2b-695e95ad7a29"
-repo = "https://github.com/Yujie-W/EmeraldConstants.jl.git"
+repo = "https://github.com/CliMA/Land.git"
+subdir = "packages/EmeraldConstants.jl"

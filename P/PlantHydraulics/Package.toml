@@ -1,3 +1,4 @@
 name = "PlantHydraulics"
 uuid = "d6acb6ec-f7e4-548d-b108-f8a3d9a6ce13"
-repo = "https://github.com/Yujie-W/PlantHydraulics.jl.git"
+repo = "https://github.com/CliMA/Land.git"
+subdir = "packages/PlantHydraulics.jl"
